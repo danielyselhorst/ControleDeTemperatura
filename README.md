@@ -13,6 +13,6 @@ Contagem e exibição da quantidade de valores válidos.
 
 # Exemplo de saída:
 
-![Resultado do programa](imagens/imagem1.png)
 ![Resultado do programa](imagens/imagem2.png)
+![Resultado do programa](imagens/imagem1.png)
 
